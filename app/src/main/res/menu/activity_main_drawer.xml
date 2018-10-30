@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_myPets"
+            android:icon="@mipmap/ic_paw"
+            android:title="@string/my_pets" />
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/qr_scanner"
+            android:title="@string/scan_pets" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/chart"
+            android:title="@string/reports" />
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/maps"
+            android:title="@string/maps" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/sym_keyboard_feedback_return"
+            android:title="@string/exit" />
+    </group>
+</menu>

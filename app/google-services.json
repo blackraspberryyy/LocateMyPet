@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "547006780242",
+    "firebase_url": "https://locatemypet-2b62b.firebaseio.com",
+    "project_id": "locatemypet-2b62b",
+    "storage_bucket": "locatemypet-2b62b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547006780242:android:6b329c654513d13a",
+        "android_client_info": {
+          "package_name": "com.example.jcv.locatemypet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547006780242-hitgkdmdsiic8qc2n3qu4nqvc5v7v897.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jcv.locatemypet",
+            "certificate_hash": "d484072793a461e1563081b7364efef4a7d156cd"
+          }
+        },
+        {
+          "client_id": "547006780242-je85s5t8csc9deldqbd6ht6bvlcvminv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-W_a7Bw2Ub__jB8WGFdFwCkCUqnNTJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547006780242-je85s5t8csc9deldqbd6ht6bvlcvminv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

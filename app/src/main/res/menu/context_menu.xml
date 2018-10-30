@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/remove"
+        android:title="@string/remove_this_pet"
+        />
+    <item
+        android:id="@+id/view"
+        android:title="@string/view_pet_info"
+        />
+    <item
+        android:id="@+id/edit"
+        android:title="@string/edit_pet_info"
+        />
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--COLORS-->
+    <color name="flat_blue">#4B77BE</color>
+    <color name="flat_darkBlue">#1F4788</color>
+    <color name="flat_hanada">#044F67</color>
+    <color name="flat_yellow">#F4D03F</color>
+    <color name="flat_gray">#bfbfbf</color>
+    <color name="flat_amber">#CA6924</color>
+    <color name="flat_ecstasy">#F9690E</color>
+    <color name="flat_lightBlue">#89C4F4</color>
+    <color name="flat_jungleGreen">#2ABB9B</color>
+    <color name="flat_turq">#36D7B7</color>
+    <color name="flat_black">#141414</color>
+    <color name="flat_white">#eeeeee</color>
+    <color name = "flat_greenDark">#2A4D14</color>
+    <color name = "flat_green">#317b22</color>
+
+    <color name="QRCodeBlackColor">#317b22</color>
+    <color name="QRCodeWhiteColor">#fff</color>
+</resources>
